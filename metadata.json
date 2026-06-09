@@ -1,0 +1,8 @@
+{
+  "name": "Remix: OceanPark Homes",
+  "description": "Cổng thông tin mua bán, cho thuê căn hộ chuyên nghiệp tại Vinhomes Ocean Park 1, 2, 3 tích hợp tư vấn AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
